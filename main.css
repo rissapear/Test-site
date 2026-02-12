@@ -9,17 +9,25 @@ body{
 }
 
 h1{
-color: rgba(61, 34, 94, 0.614);
+    color: rgb(140, 140, 224)
 }
 
 h2{
-color: rgba(47, 47, 108, 0.528);
+color: rgba(133, 133, 220, 0.848);
 }
 
 h3{
-    color:rgba(98, 68, 127, 0.511);
+    color:rgba(148, 142, 234, 0.721);
 }
 
 li{
-    color:rgba(97, 61, 131, 0.788);
+    color:rgba(127, 107, 209, 0.788);
+}
+
+a { 
+    color:rgb(174, 153, 241)
+}
+body{
+    background-image: url("Assets/board.png");
+    background-size: cover;
 }
